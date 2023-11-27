@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I am Kimuchu Njuguna!
 
-<!--
-**KimuchuJr/KimuchuJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at ALX with a passion for Full-Stack development. I love crafting engaging user experiences and diving into the intricacies of web technologies.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Proficient in C, JavaScript, Python
+- Experienced with MySQL
+
+
+## 🌐 Connect with Me
+
+- [Portfolio](https://kimuchu.carrd.co/)
+- [LinkedIn](https://www.linkedin.com/in/joseph-kimuchu-2a6031224/)
+- [Facebook](https://www.facebook.com/joseph.kimuchu.7/)
+- [Instagram](https://www.instagram.com/kimuchu__/)
+
+Feel free to reach out for collaborations or discussions on anything related to software development, full-stack design, or just to connect!
+
+Let's create something amazing together! 🌟
+👋
