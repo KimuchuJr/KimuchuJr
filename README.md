@@ -96,10 +96,10 @@
 
  <table align="center" width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KimuchuJr&theme=github_dark&utcOffset=10" alt="Kimuchu's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KimuchuJr&theme=github_dark" alt="Kimuchu's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KimuchuJr&theme=github_dark" alt="Kimuchu's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KimuchuJr&theme=github_dark" alt="Kimuchu's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KimuchuJr&theme=github_dark&utcOffset=10" alt="Kimuchu's Productive Time"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KimuchuJr&theme=github_dark" alt="Kimuchu's Repos Per Language"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KimuchuJr&theme=github_dark" alt="Kimuchu's Most Commit Language"/></td>
     </tr>
  </table>
 </div>
