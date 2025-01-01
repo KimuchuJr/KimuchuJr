@@ -10,13 +10,15 @@
 <div align="center">
     <h2 class="animate__animated animate__fadeInDown">🚀 About Me</h2>
     <p class="animate__animated animate__fadeInUp">
-        I'm a Software Engineering specialist, fusing software development with operations. My technical range covers cloud platforms, containerization, CRM systems, and 3D modeling.
+        I'm a Software Engineering specialist with a broad technical range, covering cloud platforms, containerization, CRM systems, and 3D modeling.
     </p>
 </div>
 
 <div align="center">
     <h2 class="animate__animated animate__fadeInLeft">🌐 Connect with Me</h2>
-    <p>Let's innovate together! Reach out through LinkedIn, Linktree, or explore my projects on GitHub.</p>
+    <p>
+        Feel free to reach out for collaborations, opportunities, or exchanging ideas about software development and technology. Let's innovate together!
+    </p>
     <div>
         <a href="https://www.linkedin.com/in/kimuchu-njuguna-2a6031224/">
             <img src="https://img.shields.io/badge/KimuchuJr-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -33,19 +35,41 @@
 
 <div align="center">
     <h2 class="animate__animated animate__fadeInRight">📂 Featured Projects</h2>
+    <p>Explore some of my featured projects below:</p>
     <div class="project-carousel owl-carousel">
         <div class="project-card">
-            <h3>Project 1: Portfolio Website</h3>
-            <p>A personal portfolio built with React showcasing my skills and projects.</p>
+            <h3>Portfolio Website</h3>
+            <p>A sleek portfolio website showcasing my skills and projects using React.</p>
         </div>
         <div class="project-card">
-            <h3>Project 2: E-commerce Platform</h3>
-            <p>A full-stack application enabling seamless online shopping experiences.</p>
+            <h3>E-commerce Platform</h3>
+            <p>A full-stack web application with a seamless shopping experience.</p>
         </div>
         <div class="project-card">
-            <h3>Project 3: AI Chatbot</h3>
-            <p>An intelligent chatbot leveraging NLP for interactive customer support.</p>
+            <h3>AI Chatbot</h3>
+            <p>An intelligent chatbot powered by NLP for efficient customer support.</p>
         </div>
+    </div>
+</div>
+
+<div align="center">
+    <h2 class="animate__animated animate__fadeInDown">💻 Skills and Technologies</h2>
+    <p>
+        Here are the tools and technologies I am proficient in:
+    </p>
+    <div>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+        <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+        <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
     </div>
 </div>
 
@@ -56,7 +80,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 <script>
-    $(document).ready(function() {
+    $(document).ready(function () {
         $(".project-carousel").owlCarousel({
             loop: true,
             margin: 10,
@@ -66,8 +90,8 @@
             responsive: {
                 0: { items: 1 },
                 600: { items: 2 },
-                1000: { items: 3 }
-            }
+                1000: { items: 3 },
+            },
         });
     });
 </script>
