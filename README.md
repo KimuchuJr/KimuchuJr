@@ -8,14 +8,14 @@
 </div>
 
 <div align="center">
-    <h2 class="animate__animated animate__fadeInDown">🚀 About Me</h2>
-    <p class="animate__animated animate__fadeInUp">
+    <h2>🚀 About Me</h2>
+    <p>
         I'm a Software Engineering specialist with a broad technical range, covering cloud platforms, containerization, CRM systems, and 3D modeling.
     </p>
 </div>
 
 <div align="center">
-    <h2 class="animate__animated animate__fadeInLeft">🌐 Connect with Me</h2>
+    <h2>🌐 Connect with Me</h2>
     <p>
         Feel free to reach out for collaborations, opportunities, or exchanging ideas about software development and technology. Let's innovate together!
     </p>
@@ -34,26 +34,7 @@
 </div>
 
 <div align="center">
-    <h2 class="animate__animated animate__fadeInRight">📂 Featured Projects</h2>
-    <p>Explore some of my featured projects below:</p>
-    <div class="project-carousel owl-carousel">
-        <div class="project-card">
-            <h3>Portfolio Website</h3>
-            <p>A sleek portfolio website showcasing my skills and projects using React.</p>
-        </div>
-        <div class="project-card">
-            <h3>E-commerce Platform</h3>
-            <p>A full-stack web application with a seamless shopping experience.</p>
-        </div>
-        <div class="project-card">
-            <h3>AI Chatbot</h3>
-            <p>An intelligent chatbot powered by NLP for efficient customer support.</p>
-        </div>
-    </div>
-</div>
-
-<div align="center">
-    <h2 class="animate__animated animate__fadeInDown">💻 Skills and Technologies</h2>
+    <h2>💻 Skills and Technologies</h2>
     <p>
         Here are the tools and technologies I am proficient in:
     </p>
@@ -73,25 +54,3 @@
     </div>
 </div>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-<script>
-    $(document).ready(function () {
-        $(".project-carousel").owlCarousel({
-            loop: true,
-            margin: 10,
-            nav: true,
-            autoplay: true,
-            autoplayTimeout: 3000,
-            responsive: {
-                0: { items: 1 },
-                600: { items: 2 },
-                1000: { items: 3 },
-            },
-        });
-    });
-</script>
