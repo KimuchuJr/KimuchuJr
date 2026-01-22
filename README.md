@@ -91,30 +91,7 @@ Inspired by **GSAP motion, micro-interactions, and modern visual design**, I bel
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KimuchuJr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=33FF33&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KimuchuJr&theme=radical&hide_border=true&background=0D1117&stroke=33FF33&ring=33FF33&fire=FF3366&currStreakLabel=33FF33)
-
 </div>
-
----
-
-## 🎯 Current Focus
-
-```javascript
-const kimuchu = {
-    currentRole: "Founder & Software Engineer",
-    company: "Pazet.io",
-    focus: ["Web Development", "IT Solutions", "Automation"],
-    learning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
-    motto: "Code. Scale. Innovate."
-};
-```
-
----
-
-## 💼 Featured Projects
-
-<!-- Add your top projects here -->
-> 🚧 **Coming Soon** - Showcasing production-ready solutions
 
 ---
 
